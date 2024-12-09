@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DREAM Project Site
+title: Final Project Site
 ---
 
 * TOC
@@ -8,15 +8,11 @@ title: DREAM Project Site
 
 ## About Me
 
-My info goes here.
-
-## About My Advisor
-
-Advisor info goes here.
+I'm a student. I don't have a lot of experience coding, but I want to learn.
 
 ## About My Project
 
-Project description goes here.
+This is a final project for Programming Fundamentals
 
 [My Final Report](files/finalreport.pdf)
 
