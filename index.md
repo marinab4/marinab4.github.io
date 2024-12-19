@@ -3,8 +3,6 @@ layout: default
 title: Final Project Site
 ---
 
-* TOC
-{:toc}
 
 ## About Me
 
