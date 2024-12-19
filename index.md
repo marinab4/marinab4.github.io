@@ -14,8 +14,6 @@ I am currently a high school student at Uni High. I don't have a lot of experien
 
 This site is a progress log for my final project for the course Programming Fundamentals. For this project, I will choose and solve multiple LeetCode problems, complete with proper documentation and explanation.
 
-[My Final Report](files/finalreport.pdf)
-
 ## My Blog
 
 [My Blog](blog.html)
